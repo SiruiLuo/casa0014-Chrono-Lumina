@@ -10,7 +10,7 @@
 3. [Key Components](#key-components)
 4. [Model Design](#model-design)
 5. [Model Schematic and Circuit](#model-schematic-and-circuit)
-6. [Main Functional Code](#main-functional-code)
+6. [Step by Step Promotion and Main Functional Code](#Step-by-Step-Promotion-and-Main-Functional-Code)
 
 ## The Cube📦
 The Cube is a desktop multifunctional controller designed for professional users. It can automatically set learning and working times by placing its different faces on the table, and emit different lights to prompt users how much time to set for this learning period and the remaining time. At the same time, by operating its different buttons, users can map different matrix data in the environment to the Chrono Lumina light curtain, such as the temperature of each individual in the server unit and the gain of different WiFi signals in the environment.
@@ -108,7 +108,7 @@ Environmental data is generally abstract, especially when it comes to electrical
 <p align="center"><b>Pic.4:</b> Prototype Circuit </p>
 
 
-## Main Functional Code
+## Step by Step Promotion and Main Functional Code
 
 ### 1. Network
   #### 1.1. Wifi Setup
